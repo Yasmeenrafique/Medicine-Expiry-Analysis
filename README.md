@@ -35,7 +35,8 @@ The hospital is facing:
 
 
 ### Value at Risk & Expiry Analysis
-![Value at Risk Analysis]
+![Value at Risk Analysis](https://github.com/Yasmeenrafique/Medicine-Expiry-Analysis/blob/main/secondversion.png)
+
 ---
 
 ## 🔍 Business Questions Answered
