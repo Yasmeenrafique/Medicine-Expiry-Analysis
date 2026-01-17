@@ -30,7 +30,7 @@ The hospital is facing:
 ## 📊 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview]()
+![Dashboard Overview](https://github.com/Yasmeenrafique/Medicine-Expiry-Analysis/blob/main/medicine%20analysis.png)
 
 
 
