@@ -30,7 +30,7 @@ The hospital is facing:
 ## 📊 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview] [D:\BI DEVELOPER learning\Projects\Niche 1_projects\Problem_1\insights\medicine analysis.png]
+![Dashboard Overview] [img D:\BI DEVELOPER learning\Projects\Niche 1_projects\Problem_1\insights\medicine analysis.png]
 
 ### Value at Risk & Expiry Analysis
 ![Value at Risk Analysis][D:\BI DEVELOPER learning\Projects\Niche 1_projects\Problem_1\insights\secondversion.png]
