@@ -30,7 +30,8 @@ The hospital is facing:
 ## 📊 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview] 
+![Dashboard Overview]()
+
 
 
 ### Value at Risk & Expiry Analysis
